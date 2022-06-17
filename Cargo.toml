@@ -9,7 +9,7 @@ edition = "2018"
 axum = { version = "0.1.1" }
 wasmtime = "0.28.0"
 tokio = { version = "1", features = ["full"] }
-hyper = { version = "0.14.11", features = ["full"] }
+hyper = { version = "0.14.12", features = ["full"] }
 tower = { version = "0.4.8", features = ["full"] }
 tower-http = { version = "0.1.1", features = ["full"] }
 bytes = "1.0.1"
